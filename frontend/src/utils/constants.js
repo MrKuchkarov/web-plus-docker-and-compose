@@ -1,5 +1,5 @@
-export const URL = "http://localhost:3001";
-// export const URL = 'https://api.kpdanast.nomoredomains.work';
+// export const URL = "http://localhost:3001";
+export const URL = 'https://api.runningman.nomorepartiesco.ru';
 // export const URL = "http://167.235.140.175:3001";
 export const MINIMUM_PASSWORD_LENGTH = 3;
 export const MINIMUM_USERNAME_LENGTH = 3;

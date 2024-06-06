@@ -13,8 +13,7 @@ node_modules
 .DS_Store
 .idea
 dist
-.env
-.env.deploy
+
 
 /node_modules
 
